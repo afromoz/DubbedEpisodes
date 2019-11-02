@@ -14,7 +14,7 @@ This extension does not require any dependency - install it and you are good to 
 
 **GitHub:** https://github.com/xCustomWorld/flarum-lang-lolcat/
 
-**Official Flarum Discussion:** https://discuss.flarum.org/d/21009-lolcat-for-flarum
+**Official Discussion:** https://dubbedepisodes.co/
 
 \
 If you find any mistake in translation or bug, contact me on Discord (CustomWorld#5551), open an issue or mail me/Dm me, whatever: support@customworld.xyz. But as time will flow, I will try to push updates frequently to fix common mistranslation bugs, so stay tuned!
